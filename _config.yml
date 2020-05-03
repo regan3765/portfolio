@@ -7,9 +7,8 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-#url:                 "https://regan3765.gitlab.io"
-#baseurl:             "/portfolio/"
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
 sass:
   sass_dir: assets/css
   style: :nested
