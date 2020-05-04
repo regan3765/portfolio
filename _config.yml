@@ -7,15 +7,15 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
+# baseurl:             "/individual-portfolio-19-2-bob3765/"
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
 sass:
   sass_dir: assets/css
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Regan's Project Portfolio"
-description:	       "Portfolio for Project Work "
+title:		           "Regan's Software Portfolio"
+description:	       "Portfolio for Software Engineering "
 author:              "Regan Dowling"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
