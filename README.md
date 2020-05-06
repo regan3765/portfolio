@@ -1,4 +1,4 @@
-# https://regan3765.gitlab.io/portfolio
+# https://regan3765.github.io/portfolio
 
 # Millennial
 
