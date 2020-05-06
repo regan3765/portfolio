@@ -1,8 +1,7 @@
 ---
-title: Sprint 4
+title: General
 layout: page
 ---
-start 17 oct 31 oct
 
 
 ## [Achievements](achievements.html)

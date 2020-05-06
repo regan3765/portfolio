@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Sprint 3
+title: Raspberry Pi
 ---
-start 12 sep - 8 oct after the school holidays
 
 
 ## [Achievements](achievements.html)
