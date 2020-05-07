@@ -7,7 +7,7 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-#url:                 "https://regan3765.github.io/"
+#url:                 "https://regan3765.gitlab.io/"
 #baseurl:             "/portfolio"
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 sass:
@@ -21,5 +21,5 @@ author:              "Regan Dowling"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
-  path: rss-feed.xml
+#  path: rss-feed.xml
 
