@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Sprint 2
+title: Amazon Web Services 
 ---
-start 27 aug - 12 Sept
 
-## [Achievements](achievements.html)
 
-## [Reflections](reflection.html)
+
 
