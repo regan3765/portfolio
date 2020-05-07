@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Polytech System', folder: 'polytech', file: 'polytech.html'}
-- {name: 'Amazon Web Services', folder: 'aws', file: 'aws.html'}
+- {name: 'Amazon Web Services', folder: 'AWS', file: 'aws.html'}
 - {name: 'Raspberry Pi', folder: 'raspberry', file: 'raspberry.html'}
 - {name: 'General', folder: 'general', file: 'general.html'}
 #- {name: 'sprint 5', folder: 'sprint5', file: 'sprint5.html'}
