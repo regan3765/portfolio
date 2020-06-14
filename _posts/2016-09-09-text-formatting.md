@@ -1,9 +1,5 @@
 ---
 layout: post
-title: ""
-author: "Paul Le"
-categories: sample
-tags: [sample]
 image: thejudge.JPG
 ---
 
