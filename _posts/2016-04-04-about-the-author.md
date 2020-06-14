@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "About the Author  
+title: "About the Author                                                                                            
+
 Hi there! I'm Regan. I’m a student at Otago Polytechnic in my last year of a Bachelor in IT.
 
 ## A bit about myself
