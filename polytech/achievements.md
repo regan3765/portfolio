@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fcsx
 title: Sprint 1 Achievements
 ---
 
