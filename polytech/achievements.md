@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sprint 1 Achievements
-image: foundTheCertsLocationOnGitlabDocker.JPG
 ---
 
 
