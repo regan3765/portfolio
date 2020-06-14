@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 categories: facts
 tags: [sample]
-image: t-bucket.
+image: t-bucket.JPG
 ---
 
 Hi there! I'm Regan. I’m a student at Otago Polytechnic in my last year of a Bachelor in IT.
