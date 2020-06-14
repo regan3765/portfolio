@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Sprint 1 Achievements
+image: foundTheCertsLocationOnGitlabDocker.JPG
 ---
 
 
