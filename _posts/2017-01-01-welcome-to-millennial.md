@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portfolio"
+title: "Regan Dowling's Project One Portfolio"
 author: "Regan"
 # categories: documentation
 # tags: [documentation,sample]
