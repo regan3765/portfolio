@@ -2,7 +2,6 @@
 layout: post
 title: "About the Author"
 categories: facts
-tags: [sample]
 image: t-bucket.
 ---
 
