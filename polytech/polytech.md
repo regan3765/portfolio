@@ -15,7 +15,7 @@ I have looked into this as the MA site. I have looked at the gitlab-ci.yml file 
 
 A problem is im not sure if I do have the right access/group to the vm sphere and I do not know how to access the gateway and iss server as they are windows based and the other servers are linux/ubuntu I believe which I can access with a public private key and they are located on the gitlab.com. I am a guest and can not change the wiki on the op bit platform
 
-
+{{site.github.url}} this should be 
 
 
 
