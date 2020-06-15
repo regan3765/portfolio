@@ -1,6 +1,5 @@
 ---
 layout: post
-title: ""
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
