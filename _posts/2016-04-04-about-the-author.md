@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About me"
 categories: facts
 image: t-bucket.JPG
 ---
