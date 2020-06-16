@@ -25,12 +25,14 @@ There was a message on Teams about a dependancy porblem
 ![image]({{site.github.url}}/assets/img/depndancyProblem.png)
 some of the communication of the problem 
 ![image]({{site.github.url}}/assets/img/depndancyProblemComunication.png)
-with the fix that i had researched with the problem being similar.
+with the fix that i had researched with the problem being similar. I implemented the solution but didn't get much feed back from the member as to if it worked or not, or if it wasn't the correct way of fixing it. So I guess that no news it seemed to work.
 
 
 
+![image]({{site.github.url}}/assets/img/helped.JPG)
+ The above image is of our systems administrator giving us a problem from one of our lectures, it turns out that I had seen this, and I tried the site and it was working and I could log on with no problem so I thought what could be the problem. It was the url she had entered was wrong and it was bit-op and should have been op-bit. Problem solved quickly.
 
-
+ 
 
 
 
