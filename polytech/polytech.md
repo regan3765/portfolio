@@ -22,9 +22,9 @@ A problem is im not sure if I do have the right access/group to the vm sphere an
 
 
 There was a message on Teams about a dependancy porblem 
-![image]({{site.github.url}}/assets/img/depndancyProblem.png)
+![image]({{site.github.url}}/assets/img/dependancyProblem.png)
 some of the communication of the problem 
-![image]({{site.github.url}}/assets/img/depndancyProblemComunication.png)
+![image]({{site.github.url}}/assets/img/dependancyProblemComunication.png)
 with the fix that i had researched with the problem being similar. I implemented the solution but didn't get much feed back from the member as to if it worked or not, or if it wasn't the correct way of fixing it. So I guess that no news it seemed to work.
 
 
