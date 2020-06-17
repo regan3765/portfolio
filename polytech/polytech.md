@@ -42,26 +42,14 @@ with the fix that i had researched with the problem being similar. I implemented
  
 ![image]({{site.github.url}}/assets/img/helped.JPG)
  The above image is of our systems administrator giving us a problem from one of our lectures, it turns out that I had seen this, and I tried the site and it was working and I could log on with no problem so I thought what could be the problem. It was the url she had entered was wrong and it was bit-op and should have been op-bit. Problem solved quickly.
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /><br />
 
+![image]({{site.github.url}}/assets/img/puppetNotification.JPG)
+I did work on eliminating the git-lab server over notifying us with Nagios giving us tickets on something that was nothing that we could immediately change and was annoying. So, in the puppet modules for this I changed the notification option so that it wouldn’t send a notification unless it was down or recovery state and removing the unknown state has seem to fix it. But it looks like the gitlab remote checks have been disabled on this site.
 
-I have worked with our project team to keep our services working. While this was difficult as documentation for creating and placing the neces
+![image]({{site.github.url}}/assets/img/puppetErrorAndChange.JPG)
+<br /><br />
+![image]({{site.github.url}}/assets/img/puppetConfiError.JPG)
 
-I did work on eliminating the git-lab server unessasary ticketing while I did not fix the issue I think I had stopped that particular check from happening and that seemed to stop the tickets but also mathew did update the amount of ram for that server
-
-
-Working with Media-analytics site
-
-I added a code and did not no how to restart the website so i restarted the machine. while i thought that would bring this back up it did not. I have been searching the web and through the bash history of the ma server and have found some commands used and found where the nginx is looking for the website
-
-
-
+<br /><br />
 
