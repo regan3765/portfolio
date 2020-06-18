@@ -20,7 +20,7 @@ I have looked at the gitlab-ci.yml file and try and replicate the commands used 
 The above image show that the site runs of nginx and the location of the of it.
 <br /><br />
 
-![image]({site.github.url}}/assets/img/goaccess.JPG)
+![image]({{site.github.url}}/assets/img/goaccess.JPG)
 So I did some research on what programs were available on Linux/Ubuntu and I did find two options, goaccess looked better than the other so I installed it and then start to figure out how it works and it works by taking the logs of the nginx and turn it into data. The problem I did see was that it wasn’t using the amount of time I was using it or the number of request as there was no other logs for other people on the same network. 
 And at this point i was stuck and a team member sugested 
 
