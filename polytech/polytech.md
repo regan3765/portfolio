@@ -49,7 +49,7 @@ I did work on eliminating the git-lab server over notifying us with Nagios givin
 
 ![image]({{site.github.url}}/assets/img/puppetErrorAndChange.JPG)
 <br /><br />
-![image]({{site.github.url}}/assets/img/puppetConfiError.JPG)
+![image]({{site.github.url}}/assets/img/puppetConfigError.JPG)
 
 <br /><br />
 
